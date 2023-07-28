@@ -1,4 +1,4 @@
-name: "build-test"
+name: "my-build-test"
 
 on: # rebuild any PRs and main branch changes
   pull_request:
